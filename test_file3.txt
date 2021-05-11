@@ -1,0 +1,21 @@
+Window "Test File 3" (200, 200) Layout Flow:
+Panel Layout Grid(1, 1):
+Label "Cheri Worked Hard";
+END;
+Panel Layout Flow:
+Panel Layout Grid(1, 1):
+Group
+Radio "Yes";
+Radio "No";
+END;
+END;
+END;
+Panel Layout Flow:
+Panel Layout Grid(3, 10):
+LABEL "Project Feedback";
+TEXTFIELD 10;
+Label "Cheri gets an A";
+End;
+End;
+End.
+

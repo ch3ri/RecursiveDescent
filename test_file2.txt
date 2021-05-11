@@ -1,0 +1,6 @@
+Window "Test File 2" (200, 200) Layout Flow:
+Textfield 20;
+Panel Layout Grid(4, 3, 5, 5):
+Button 7;
+End;
+End.
